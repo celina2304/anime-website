@@ -14,7 +14,7 @@ const Header = () => {
   return (
     <header className="bg-gray-800 py-4 shadow-md">
       <div className="container mx-auto px-4 flex items-center justify-between">
-        <Link to="/" className="text-2xl font-bold text-blue-500">Sloth</Link>
+        <Link to="/" className="text-2xl font-bold text-blue-500">Anime</Link>
 
         {/* <div className="flex items-center gap-4">
           {isAuthenticated ? (

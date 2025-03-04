@@ -29,7 +29,7 @@ const HomePage = () => {
   return (
     <div>
       <div className="mb-8">
-        <h1 className="text-3xl font-bold mb-6">Sloth</h1>
+        <h1 className="text-3xl font-bold mb-6">Anime</h1>
         <SearchBar onSearch={handleSearch} />
       </div>
 
