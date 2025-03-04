@@ -1,0 +1,20 @@
+// File structure for the backend
+/server
+  /controllers
+    /animeController.js
+    /userController.js
+  /middleware
+    /auth.js
+    /errorHandler.js
+  /models
+    /Anime.js
+    /Episode.js
+    /User.js
+  /routes
+    /animeRoutes.js
+    /userRoutes.js
+  /utils
+    /apiFeatures.js
+  /config
+    /db.js
+  server.js
