@@ -10,7 +10,7 @@ dotenv.config();
 
 const app = express();
 
-app.use(cors({ origin: "https://your-frontend-domain.com" }));
+app.use(cors({ origin: "https://anime-website-mu-mocha.vercel.app/" }));
 
 app.use(express.json());
 

@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API_BASE_URL = 'https://test-anime-backend.vercel.app/api/anime'
+const API_BASE_URL = 'https://anime-website-mu-mocha.vercel.app/api/anime'
 // const API_BASE_URL = 'http://localhost:5000/api/anime'
 // const API_BASE_URL = 'https://animeapi.skin'
 
